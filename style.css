@@ -1,0 +1,33 @@
+html, body {
+  height: 100%;
+  width: 100%;
+      font-family: 'Oswald', sans-serif;
+    background-color: yellow;
+    text-align: center;
+}
+
+img {
+    width: 500px;
+}
+
+.Box{
+  border: groove  orange 5px;
+    height: 60px;
+    margin: 20px;
+    padding: 10px;
+}
+.h1 {
+  font-family: "ITC Stone Sans" sans-seri;
+}
+
+h1 {
+  font-family: "Papyrus";
+}
+
+button {
+color: red;
+
+
+
+
+
